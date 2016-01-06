@@ -1,0 +1,12 @@
+div.bodystyle {
+  border: 2px solid black;
+  font-family: sans-serif;
+  background: lightgray;}
+
+div.blog2 {
+  border: 2px solid black;
+  color:red;}
+
+div.aboutme {
+  border: 2px solid black;
+  font-family: arial;}
