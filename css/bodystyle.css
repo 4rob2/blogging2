@@ -1,12 +1,18 @@
 div.bodystyle {
+  margin-top: 20px;
+  margin-bottom: 20px;
   border: 2px solid black;
   font-family: sans-serif;
   background: lightgray;}
 
 div.blog2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
   border: 2px solid black;
   color:red;}
 
 div.aboutme {
+  margin-top: 20px;
+  margin-bottom: 20px;
   border: 2px solid black;
   font-family: arial;}
